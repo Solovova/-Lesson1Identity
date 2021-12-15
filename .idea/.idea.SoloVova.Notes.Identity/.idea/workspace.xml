@@ -9,11 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11518e3c-9a5e-45b2-ae5b-ce22cbffd6f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Notes.Identity/Models/RegisterViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes.Identity/Views/Auth/Register.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SoloVova.Notes.Identity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SoloVova.Notes.Identity/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes.Identity/Controllers/AuthController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Notes.Identity/Controllers/AuthController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes.Identity/Views/Auth/Login.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Notes.Identity/Views/Auth/Login.cshtml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +53,7 @@
     <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.Notes.Identity">
+  <component name="RunManager" selected=".NET Launch Settings Profile.Notes.Identity: IIS Express">
     <configuration name="Notes.Identity" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Notes.Identity/Notes.Identity.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net6.0" />
@@ -106,6 +102,8 @@
       <workItem from="1639488064270" duration="1041000" />
       <workItem from="1639489452392" duration="677000" />
       <workItem from="1639490150196" duration="8996000" />
+      <workItem from="1639566033613" duration="1008000" />
+      <workItem from="1639567272020" duration="1168000" />
     </task>
     <task id="LOCAL-00001" summary="0.00">
       <created>1639486865337</created>
@@ -163,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639562763309</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="0.08 work">
+      <created>1639566056295</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1639566056295</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +198,7 @@
     <MESSAGE value="0.05 Configuration" />
     <MESSAGE value="0.06" />
     <MESSAGE value="0.07 v12 Auth/Login work" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.07 v12 Auth/Login work" />
+    <MESSAGE value="0.08 work" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.08 work" />
   </component>
 </project>
