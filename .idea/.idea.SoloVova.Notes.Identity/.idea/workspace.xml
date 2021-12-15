@@ -8,11 +8,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11518e3c-9a5e-45b2-ae5b-ce22cbffd6f2" name="Changes" comment="0.05 Configuration" />
+    <list default="true" id="11518e3c-9a5e-45b2-ae5b-ce22cbffd6f2" name="Changes" comment="0.06">
+      <change afterPath="$PROJECT_DIR$/Notes.Identity/Controllers/AuthController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes.Identity/Models/LoginViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes.Identity/Styles/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes.Identity/Views/Auth/Login.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes.Identity/Views/_ViewImports.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SoloVova.Notes.Identity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SoloVova.Notes.Identity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes.Identity/Notes.Identity.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Notes.Identity/Notes.Identity.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes.Identity/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Notes.Identity/Startup.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="HTML4 File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,6 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -90,7 +108,7 @@
       <workItem from="1639487966514" duration="83000" />
       <workItem from="1639488064270" duration="1041000" />
       <workItem from="1639489452392" duration="677000" />
-      <workItem from="1639490150196" duration="4251000" />
+      <workItem from="1639490150196" duration="7204000" />
     </task>
     <task id="LOCAL-00001" summary="0.00">
       <created>1639486865337</created>
@@ -134,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639493902995</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="0.06">
+      <created>1639554015232</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1639554015232</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +187,7 @@
     <MESSAGE value="0.03" />
     <MESSAGE value="0.04" />
     <MESSAGE value="0.05 Configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.05 Configuration" />
+    <MESSAGE value="0.06" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.06" />
   </component>
 </project>
