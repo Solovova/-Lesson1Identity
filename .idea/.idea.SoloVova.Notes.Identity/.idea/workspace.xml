@@ -9,9 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11518e3c-9a5e-45b2-ae5b-ce22cbffd6f2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SoloVova.Notes.Identity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SoloVova.Notes.Identity/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/config/applicationhost.config" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +107,8 @@
       <workItem from="1639655143139" duration="1397000" />
       <workItem from="1639657515092" duration="2292000" />
       <workItem from="1639664907423" duration="252000" />
-      <workItem from="1639727982525" duration="71000" />
+      <workItem from="1639727982525" duration="104000" />
+      <workItem from="1639746371514" duration="2314000" />
     </task>
     <task id="LOCAL-00001" summary="0.00">
       <created>1639486865337</created>
@@ -195,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639657846044</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="0.13">
+      <created>1639728071541</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1639728071541</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +235,7 @@
     <MESSAGE value="0.09" />
     <MESSAGE value="0.10" />
     <MESSAGE value="0.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.11" />
+    <MESSAGE value="0.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.13" />
   </component>
 </project>
